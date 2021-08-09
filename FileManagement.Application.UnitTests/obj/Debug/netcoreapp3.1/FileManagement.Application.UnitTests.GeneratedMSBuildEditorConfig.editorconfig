@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = FileManagement.Application.UnitTests
+build_property.ProjectDir = C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Application.UnitTests\

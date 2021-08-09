@@ -3,10 +3,11 @@ using System.Threading;
 using System.Threading.Tasks;
 using AutoMapper;
 using FileManagement.Application.Contracts.Persistence;
+using FileManagement.Application.Features.File.Queries.GetFileList;
 using FileManagement.Domain.Entities;
 using MediatR;
 
-namespace FileManagement.Application.Features.File.Queries.GetFileList
+namespace FileManagement.Application.Features.File.Queries.GetPagedFileList
 {
     public class GetPagedFileListQueryHandler : IRequestHandler<GetPagedFileListQuery, PagedFileListVm>
     {

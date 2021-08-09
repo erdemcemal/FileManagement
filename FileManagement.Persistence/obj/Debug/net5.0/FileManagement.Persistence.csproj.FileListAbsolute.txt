@@ -1,0 +1,17 @@
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Persistence\bin\Debug\net5.0\FileManagement.Persistence.deps.json
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Persistence\bin\Debug\net5.0\FileManagement.Persistence.dll
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Persistence\bin\Debug\net5.0\ref\FileManagement.Persistence.dll
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Persistence\bin\Debug\net5.0\FileManagement.Persistence.pdb
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Persistence\bin\Debug\net5.0\FileManagement.Application.dll
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Persistence\bin\Debug\net5.0\FileManagement.Domain.dll
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Persistence\bin\Debug\net5.0\FileManagement.Application.pdb
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Persistence\bin\Debug\net5.0\FileManagement.Domain.pdb
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Persistence\obj\Debug\net5.0\FileManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Persistence\obj\Debug\net5.0\FileManagement.Persistence.AssemblyInfoInputs.cache
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Persistence\obj\Debug\net5.0\FileManagement.Persistence.AssemblyInfo.cs
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Persistence\obj\Debug\net5.0\FileManagement.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Persistence\obj\Debug\net5.0\FileManagement.Persistence.csproj.CopyComplete
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Persistence\obj\Debug\net5.0\FileManagement.Persistence.dll
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Persistence\obj\Debug\net5.0\ref\FileManagement.Persistence.dll
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Persistence\obj\Debug\net5.0\FileManagement.Persistence.pdb
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Persistence\obj\Debug\net5.0\FileManagement.Persistence.csproj.AssemblyReference.cache
