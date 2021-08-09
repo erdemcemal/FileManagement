@@ -224,4 +224,4 @@ C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Application.UnitTest
 C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Application.UnitTests\obj\Debug\net5.0\ref\FileManagement.Application.UnitTests.dll
 C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Application.UnitTests\obj\Debug\net5.0\FileManagement.Application.UnitTests.genruntimeconfig.cache
 C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Application.UnitTests\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Application.UnitTests\obj\Debug\net5.0\FileManagement.Application.UnitTests.csprojAssemblyReference.cache
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Application.UnitTests\obj\Debug\net5.0\FileManagement.Application.UnitTests.csproj.AssemblyReference.cache

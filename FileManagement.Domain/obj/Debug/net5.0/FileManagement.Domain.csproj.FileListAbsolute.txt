@@ -9,4 +9,4 @@ C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Domain\obj\Debug\net
 C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Domain\obj\Debug\net5.0\FileManagement.Domain.dll
 C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Domain\obj\Debug\net5.0\ref\FileManagement.Domain.dll
 C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Domain\obj\Debug\net5.0\FileManagement.Domain.pdb
-C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Domain\obj\Debug\net5.0\FileManagement.Domain.csprojAssemblyReference.cache
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Domain\obj\Debug\net5.0\FileManagement.Domain.csproj.AssemblyReference.cache
