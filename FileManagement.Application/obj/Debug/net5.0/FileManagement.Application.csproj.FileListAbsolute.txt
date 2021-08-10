@@ -1,0 +1,15 @@
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Application\bin\Debug\net5.0\FileManagement.Application.deps.json
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Application\bin\Debug\net5.0\FileManagement.Application.dll
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Application\bin\Debug\net5.0\ref\FileManagement.Application.dll
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Application\bin\Debug\net5.0\FileManagement.Application.pdb
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Application\bin\Debug\net5.0\FileManagement.Domain.dll
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Application\bin\Debug\net5.0\FileManagement.Domain.pdb
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Application\obj\Debug\net5.0\FileManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Application\obj\Debug\net5.0\FileManagement.Application.AssemblyInfoInputs.cache
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Application\obj\Debug\net5.0\FileManagement.Application.AssemblyInfo.cs
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Application\obj\Debug\net5.0\FileManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Application\obj\Debug\net5.0\FileManagement.Application.csproj.CopyComplete
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Application\obj\Debug\net5.0\FileManagement.Application.dll
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Application\obj\Debug\net5.0\ref\FileManagement.Application.dll
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Application\obj\Debug\net5.0\FileManagement.Application.pdb
+C:\Users\cerdem\RiderProjects\FileManagement\FileManagement.Application\obj\Debug\net5.0\FileManagement.Application.csproj.AssemblyReference.cache
